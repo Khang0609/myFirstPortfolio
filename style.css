@@ -1,0 +1,179 @@
+
+.container-md{
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.banner-title{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+
+    color: #FD5F00;
+}
+
+.navbar{
+    height: 47px;
+    background-color: #ADF137;
+    padding: 0 !important;
+}
+
+.nav-link{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    color: #048F0A;
+}
+
+.nav-link:hover{
+    color: #048F0A !important
+}
+
+.nav-link:visited{
+    color: #048F0A;
+}
+
+.nav ul li a.active{
+    color: #005A04 !important;
+}
+
+#home{
+    margin-top: 190px !important;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section{
+    padding: 0;
+    margin: auto !important;
+}
+
+.avatar{
+    width: 220px;
+    transform: translate(-2%,0%);
+}
+
+.short-container{
+    padding: 46px 0 0 20px !important;
+}
+
+.short-info{
+    background-color: #93D2FF;
+    border-radius: 22px;
+    padding: 20px 0 15px 25px;
+}
+
+.name{
+    font-family: "Paytone One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #021381;
+}
+
+.info{
+    font-size: 18px;
+    color: #2018D4;
+    line-height: 2;
+}
+
+.highlight{
+    color: #06008E;
+}
+
+.icon{
+    margin:15px 0px 0px 30px;
+    width: 50px;
+    border-radius: 7px;
+}
+
+#hobbies{
+    margin-top: 90px;
+    padding: 0;
+}
+
+.hobbies-box{
+    background-color: #33CDFF;
+    margin: 0px 0 34px 0;
+    width: 866px;
+    height: 400px;
+    border-radius: 25px;
+}
+
+.hobbies-text{
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#title{
+    font-size: 40px;
+    color: #004AB1;
+    margin: 13px 0 0 0;
+}
+
+#subtitle{
+    font-size: 24px;
+    color: #006BFF;
+}
+
+.hobbies-image{
+    height: 285px ;
+}
+
+.special{
+    color: black;
+}
+
+#family{
+    margin-top: 80px;
+}
+
+.left{
+    margin-right: 0;
+}
+
+.top{
+    margin-bottom: 40px;
+}
+
+.family-box{
+    border-radius: 25px;
+}
+
+.family-image{
+    height: 280px;
+}
+
+.family-highlight{
+    color: #fd5a5a;
+}
+
+.bg-primary{
+    background-color: #10375C !important;
+    color: #F4F6FF !important;
+}
+
+.school-info{
+    padding-top: 10px;
+    margin-left: 25px;
+    background-color: #FA4032 ;
+    border-radius: 20px ;
+    color: white !important;
+    max-width: 350px !important;
+}
+
+#school{
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.schools-image{
+    border-radius: 20px;
+    height: 150px;
+}
